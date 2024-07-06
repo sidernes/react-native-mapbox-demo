@@ -34,7 +34,7 @@ Follow these instructions to set up and run the application on your local machin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-native-mapbox-demo.git
+   git clone https://github.com/sidernes/react-native-mapbox-demo.git
    cd react-native-mapbox-demo
    ```
 
